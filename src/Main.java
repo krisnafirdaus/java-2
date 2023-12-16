@@ -6,7 +6,6 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
 //        int[] numbers = {1, 2, 3};
 //
-//        System.out.println(numbers);
         class Vechicle {
             protected  String brand = "Ford";
 
